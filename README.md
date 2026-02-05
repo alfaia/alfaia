@@ -1,5 +1,12 @@
 ## Olá, eu sou o Rodrigo Alfaia 👋
 
+Engenheiro de Software com mais de 4 anos de experiência no desenvolvimento de sistemas distribuídos e críticos, com atuação em setores como mercado financeiro, e-commerce, telecomunicações e monitoramento ambiental. 
+
+Atuo em todo o ciclo de desenvolvimento, desde decisões arquiteturais e design de APIs até implementação, otimização e operação em produção, com foco em confiabilidade, segurança, escalabilidade e impacto para o negócio. Possuo experiência na construção e modernização de plataformas utilizando microsserviços, mensageria assíncrona e arquiteturas escaláveis.
+
+Minha principal stack é backend com Python (Django e FastAPI), complementada por JavaScript, além de bancos relacionais e NoSQL, mensageria, containers e cloud. Sou Doutor em Engenharia Elétrica com foco em Inteligência Artificial, com experiência em machine learning aplicado e resolução de problemas complexos.
+
+
 <!--
 **alfaia/alfaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
