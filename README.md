@@ -8,7 +8,7 @@ Minha principal stack é backend com Python (Django e FastAPI), complementada po
 
 ## 🛠️ Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,go,js,react,postgres,mongodb,redis,rabbitmq,kafka,docker,kubernetes,azure,linux,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,postgres,mongodb,redis,kafka,docker,kubernetes,azure,sklearn" />
 </p>
 
 
