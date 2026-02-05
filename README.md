@@ -11,6 +11,21 @@ Minha principal stack é backend com Python (Django e FastAPI), complementada po
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,postgres,mongodb,redis,kafka,docker,kubernetes,azure,sklearn" />
 </p>
 
+📚 Aprendizado Contínuo
+
+Frontend: React, React Native
+
+DevOps & Infraestrutura: Docker, Kubernetes
+
+Frameworks Backend: Django, FastAPI
+
+Banco de Dados: MongoDB
+
+Inteligência Artificial & LLMs:
+Agentes de IA, RAG (Retrieval-Augmented Generation), Fine-tuning de modelos
+
+Arquitetura e Engenharia de Software:
+Arquitetura de Software, Microsserviços, Arquitetura Hexagonal, Arquitetura Orientada a Eventos, Design Patterns
 
 <!--
 **alfaia/alfaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
