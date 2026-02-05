@@ -5,11 +5,13 @@ Engenheiro de Software com mais de 4 anos de experiência no desenvolvimento de 
 Atuo em todo o ciclo de desenvolvimento, desde decisões arquiteturais e design de APIs até implementação, otimização e operação em produção, com foco em confiabilidade, segurança, escalabilidade e impacto para o negócio. Possuo experiência na construção e modernização de plataformas utilizando microsserviços, mensageria assíncrona e arquiteturas escaláveis.
 
 Minha principal stack é backend com Python (Django e FastAPI), complementada por JavaScript, além de bancos relacionais e NoSQL, mensageria, containers e cloud. Sou Doutor em Engenharia Elétrica com foco em Inteligência Artificial, com experiência em machine learning aplicado e resolução de problemas complexos.
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,postgres,mongodb,redis,kafka,docker,kubernetes,azure,sklearn" />
 </p>
+---
 
 ## 📚 Aprendizado Contínuo
 
@@ -26,6 +28,7 @@ Agentes de IA, RAG (Retrieval-Augmented Generation), Fine-tuning de modelos
 
 Arquitetura e Engenharia de Software:
 Arquitetura de Software, Microsserviços, Arquitetura Hexagonal, Arquitetura Orientada a Eventos, Design Patterns
+---
 
 <!--
 **alfaia/alfaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
