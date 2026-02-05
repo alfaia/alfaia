@@ -11,7 +11,7 @@ Minha principal stack é backend com Python (Django e FastAPI), complementada po
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,postgres,mongodb,redis,kafka,docker,kubernetes,azure,sklearn" />
 </p>
 
-##📚 Aprendizado Contínuo
+## 📚 Aprendizado Contínuo
 
 Frontend: React, React Native
 
