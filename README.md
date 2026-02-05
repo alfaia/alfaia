@@ -23,13 +23,40 @@ DevOps & Infraestrutura: Docker, Kubernetes
 
 Frameworks Backend: Django, FastAPI
 
-Banco de Dados: MongoDB
+Banco de Dados: MongoDB, PostgreSQL
 
 Inteligência Artificial & LLMs:
 Agentes de IA, RAG (Retrieval-Augmented Generation), Fine-tuning de modelos
 
 Arquitetura e Engenharia de Software:
 Arquitetura de Software, Microsserviços, Arquitetura Hexagonal, Arquitetura Orientada a Eventos, Design Patterns
+
+---
+
+## Atuação Profissional
+
+🧾 Software Engineer – BRQ Digital Solutions / B3 (04.2025 - Atual)
+
+🛒 Software Developer – Confi (07.2024 - 01.2025)
+
+📱 Software Developer – Sidia Instituto de Ciência e Tecnologia (08.2022 - 03.2024)
+
+🌱 Software Developer – Secretaria de Meio Ambiente (SEMAS) (08.2021 - 09.2022)
+
+📲 Software Developer – FADESP (08.2020 - 06.2021)
+
+---
+
+## Formação Acadêmica
+
+🎓 Doutorado em Engenharia Elétrica – Computação Aplicada – UFPA (2018 - 2023)
+Tema: Machine Learning aplicado à previsão de sobrecarga em redes 5G com UAV-BS.
+
+🎓 Mestrado em Engenharia Elétrica – Computação Aplicada – UFPA (2016 - 2018)
+Tema: Arquitetura inteligente para gerenciamento energético em Smart Homes baseada em IoT.
+
+🎓 Bacharelado em Sistemas de Informação – UFRA (2011 - 2016)
+Tema: Arquitetura inteligente para monitoramento e gerenciamento energético em Smart Homes.
 
 ---
 
