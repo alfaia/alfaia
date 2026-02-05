@@ -6,6 +6,11 @@ Atuo em todo o ciclo de desenvolvimento, desde decisões arquiteturais e design 
 
 Minha principal stack é backend com Python (Django e FastAPI), complementada por JavaScript, além de bancos relacionais e NoSQL, mensageria, containers e cloud. Sou Doutor em Engenharia Elétrica com foco em Inteligência Artificial, com experiência em machine learning aplicado e resolução de problemas complexos.
 
+## 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,go,js,react,postgres,mongodb,redis,rabbitmq,kafka,docker,kubernetes,azure,linux,sklearn" />
+</p>
+
 
 <!--
 **alfaia/alfaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
